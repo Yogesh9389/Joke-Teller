@@ -17,14 +17,12 @@ body{
   justify-content: center;
   align-items: center;
   background: url(./Gifi/robot.gif);
-  background-size: 300px;
-  background-position: center;
+  background-size: contain;
+  background-position: left center;
   background-repeat: no-repeat;
 }
 
-.container #button{
-  margin-top: 300px;
-}
+
 
 button{
   cursor: pointer;
